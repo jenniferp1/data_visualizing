@@ -1,4 +1,4 @@
-# data_visualizing
+# Data visualization
 Visualization of data
 
 ## Repo Contents
